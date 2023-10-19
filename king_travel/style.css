@@ -1,0 +1,217 @@
+body {
+
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+#contenedor {
+color: #fff;
+background-image: url('img/fondoooooooooooooooooooooooo.png');
+padding: 20px;
+text-align: center;
+}
+.logoo{
+    margin-top: 10px;
+    margin-right: 85%;
+}
+#logo {
+ 
+    width: 160px; /* Ancho de la imagen */
+    height: auto; /* Altura automática para mantener la proporción */
+}
+.titulo{
+    font-size: 55px;
+}
+.titulo1{
+    font-size: 26px;
+}
+.titulo2{
+    font-size: 26px;
+}
+.contenido{
+    margin: 0%;
+}
+/* Estilos para el botón redondeado */
+.rounded-button {
+    padding: 15px 20px;
+    background-color: #2970DB;
+    color: #fff;
+    border-radius: 25px;
+    font-size: 16px;
+    transition: 0.3s;
+ 
+}
+
+/* Efecto al hacer hover en el botón */
+.rounded-button:hover {
+    background-color: #2460bb;
+}
+
+
+/*-----------------------------------------------------------------------------------------*/
+#contenedor-principal {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #C8C8C7;
+
+    margin: 0 auto;
+}
+
+#izquierda {
+    width: 50%;
+    text-align: center;
+}
+
+#derecha {
+    width: 50%;
+    text-align: center;
+}
+ 
+#contenedor-derecha{
+    background-color: #007bff;
+    border-radius: 15px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1 {
+    color: #ffffff; /* Color del texto del h1 */
+}
+
+h2 {
+    color: #ffffff; /* Color del texto de los h2 */
+}
+
+img {
+    max-width: 100%; /* Ajusta el tamaño de la imagen */
+}
+
+p {
+    color: #ffffff; /* Color del texto de los párrafos */
+}
+
+.botoncito {
+    background-color: #F7C032; /* Color de fondo del botón */
+    color: #007bff; /* Color del texto del botón */
+    padding: 20px 80px;
+    border: none;
+    border-radius: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+.botoncito:hover {
+    background-color: #ffbb0e;
+}
+/*---------------------------------------------------------------------------*/
+#contenedor-principal11 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2970DB;
+  
+}
+
+#izquierda11 {
+    width: 50%;
+    text-align: center;
+}
+
+#derecha11 {
+    width: 50%;
+    text-align: center;
+}
+
+
+
+.boton {
+    background-color: #007bff; /* Color de fondo del botón */
+    color: #fff; /* Color del texto del botón */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+}
+
+/*-------------------------------------------------------------------*/
+.contacto{
+    background-color: #C8C8C7;
+    display: flex;
+}
+.container-horizontal {
+
+    display: inline-block;
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 40px;
+}
+
+.container-image {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
+
+.circle-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+p {
+    margin: 0;
+}
+/*-------------------------------------------------------------------------*/
+footer {
+    background-color: #ff0000;
+    padding: 20px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    color: #000000;
+}
+.logo{
+    margin-left: 5%;
+
+}
+.logo h2 {
+    font-size: 24px;
+    color: #000000;
+}
+.h2{
+    font-size: 24px;
+    color: #000000;
+}
+.nav-section {
+margin-left: 10%;
+margin-right: 50%;
+width: 15%;
+color: #000000;
+}
+.nav-section h2{
+    font-size: 24px;
+    color: #000000;
+}
+.nav {
+    list-style: none;
+    padding: 0;
+    
+}
+
+.nav-item {
+    margin: 5px 0;
+    color: #000000;
+}
+.nav11 {
+    color: #000000;
+}
